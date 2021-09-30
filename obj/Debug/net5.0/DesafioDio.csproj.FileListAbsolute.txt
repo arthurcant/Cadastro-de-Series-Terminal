@@ -1,0 +1,16 @@
+/home/arthur/Documents/dotnet/dotnet projects/DesafioDio/obj/Debug/net5.0/DesafioDio.csproj.AssemblyReference.cache
+/home/arthur/Documents/dotnet/dotnet projects/DesafioDio/obj/Debug/net5.0/DesafioDio.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/Documents/dotnet/dotnet projects/DesafioDio/obj/Debug/net5.0/DesafioDio.AssemblyInfoInputs.cache
+/home/arthur/Documents/dotnet/dotnet projects/DesafioDio/obj/Debug/net5.0/DesafioDio.AssemblyInfo.cs
+/home/arthur/Documents/dotnet/dotnet projects/DesafioDio/obj/Debug/net5.0/DesafioDio.csproj.CoreCompileInputs.cache
+/home/arthur/Documents/dotnet/dotnet projects/DesafioDio/bin/Debug/net5.0/DesafioDio
+/home/arthur/Documents/dotnet/dotnet projects/DesafioDio/bin/Debug/net5.0/DesafioDio.deps.json
+/home/arthur/Documents/dotnet/dotnet projects/DesafioDio/bin/Debug/net5.0/DesafioDio.runtimeconfig.json
+/home/arthur/Documents/dotnet/dotnet projects/DesafioDio/bin/Debug/net5.0/DesafioDio.runtimeconfig.dev.json
+/home/arthur/Documents/dotnet/dotnet projects/DesafioDio/bin/Debug/net5.0/DesafioDio.dll
+/home/arthur/Documents/dotnet/dotnet projects/DesafioDio/bin/Debug/net5.0/ref/DesafioDio.dll
+/home/arthur/Documents/dotnet/dotnet projects/DesafioDio/bin/Debug/net5.0/DesafioDio.pdb
+/home/arthur/Documents/dotnet/dotnet projects/DesafioDio/obj/Debug/net5.0/DesafioDio.dll
+/home/arthur/Documents/dotnet/dotnet projects/DesafioDio/obj/Debug/net5.0/ref/DesafioDio.dll
+/home/arthur/Documents/dotnet/dotnet projects/DesafioDio/obj/Debug/net5.0/DesafioDio.pdb
+/home/arthur/Documents/dotnet/dotnet projects/DesafioDio/obj/Debug/net5.0/DesafioDio.genruntimeconfig.cache
