@@ -1,12 +1,13 @@
 using System;
 using System.CodeDom.Compiler;
+using DesafioDio;
 
 namespace DesafioDio.Classes
 {
     public class Serie : EntidadeBase
     {
         
-        private Genero Genero {get; set}
+        private Genero Genero {get; set;}
         private string Titulo {get; set;}
 
         private string Descricao {get; set;}
