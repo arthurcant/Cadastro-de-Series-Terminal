@@ -20,8 +20,16 @@ namespace DesafioDio
                         InserirSerie();
                     break;
 
-                    case "3": 
+                    case "3":
+                        atualizarSerie();
+                    break;
+
+                    case "4": 
                         ExcluirSerie();
+                    break;
+
+                    case "5":
+                        VisualizarSerie();
                     break;
 
                     case "C":
@@ -65,10 +73,11 @@ namespace DesafioDio
 
             Console.WriteLine("1- Lista séries");
             Console.WriteLine("2- Inserir nova série");
-            Console.WriteLine("3- Excluir série");
+            Console.WriteLine("3- Atualizar série");
+            Console.WriteLine("4- Excluir série");
+            Console.WriteLine("5- Visualizar série");
             Console.WriteLine("C- Limpar Tela");
             Console.WriteLine("X- Sair");
-
             Console.WriteLine();
             
             string opcaoUsuario = Console.ReadLine().ToUpper();
@@ -91,7 +100,7 @@ namespace DesafioDio
             int indiceSerie = int.Parse(Console.ReadLine());
 
             foreach(int i in Enum.GetValues(typeof(Genero))){
-                Console.WriteLine($"{i}-{Enum.GetNames(typeof(Genero))}");
+				Console.WriteLine($"{i}-{Enum.GetName(typeof(Genero), i)}"); 
             }
 
             Console.Write("Digite o gênero entre as opções acima: ");
@@ -111,6 +120,7 @@ namespace DesafioDio
                                             titulo: entradaTitulo,
                                             ano: entradaAno,
                                             descricao: entradaDescricao);
+            repositorio.Atualiza(indiceSerie, atualizaSerie);
         }
 
         private static void InserirSerie(){
